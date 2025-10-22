@@ -24,6 +24,7 @@ npm -v
 
 A estrutura mínima para rodar o script é a seguinte:
 
+```
 mcrh-api-evidence/
 │
 ├── evidence-runner.js        # Script principal de coleta de evidências
@@ -35,6 +36,7 @@ mcrh-api-evidence/
 │  
 ├── README.md             # Este guia
 └── REPORT.md             # Documento técnico com a análise das evidências
+```
 
 ## 🔐 3. Configuração das credenciais
 
