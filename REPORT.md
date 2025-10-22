@@ -3,7 +3,6 @@
 **Projeto:** mcrh-api  
 **Ambiente testado:** https://mcrh-api.idkmedia.co/api  
 **Data da execução:** 22/10/2025  
-**Responsável:** Marcelo Oliveira  
 **Script utilizado:** evidence-runner.js (Node.js + Axios)
 
 ---
