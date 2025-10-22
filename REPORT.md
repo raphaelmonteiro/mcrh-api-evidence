@@ -37,9 +37,11 @@ Os testes atuais comprovam que:
 ---
 
 ## 3. Sumário dos resultados
+```
 2025-10-22T01:34:30.255Z - POST /authenticate -> 200
 2025-10-22T01:34:30.255Z - GET /user/me -> 200
 2025-10-22T01:34:30.255Z - GET /dataimport/all?page=1&size=10 -> 200
+```
 
 - Todas as requisições retornaram **200 OK**.  
 - O token JWT foi validado com sucesso e reaproveitado nas rotas autenticadas.  
