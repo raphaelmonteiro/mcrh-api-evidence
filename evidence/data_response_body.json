@@ -1,0 +1,198 @@
+{
+  "page": 1,
+  "pages": 667,
+  "total": 6668,
+  "limit": 10,
+  "docs": [
+    {
+      "period": {
+        "start": "2025-10-01T12:00:00.000Z",
+        "finish": "2025-10-01T12:00:00.000Z"
+      },
+      "_id": "68f796df45ba905fe9ef72a4",
+      "type": "4",
+      "status": 2,
+      "filename": "Relatório de Exceção à Regra 01 10.xlsx",
+      "filepath": "/files/rule_exception_1761056472358.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "date": "2025-10-23T12:00:00.000Z",
+      "user_kronos": "TSDCCARNEIRO",
+      "consulting_send": true,
+      "created_at": "2025-10-21T14:21:19.583Z",
+      "__v": 0,
+      "updated_at": "2025-10-21T14:22:04.864Z",
+      "auto_send": true
+    },
+    {
+      "period": {
+        "start": "2025-09-30T12:00:00.000Z",
+        "finish": "2025-09-30T12:00:00.000Z"
+      },
+      "_id": "68f796209cde2ec0e4f37186",
+      "type": "4",
+      "status": 2,
+      "filename": "Relatório de Exceção à Regra 30 09.xlsx",
+      "filepath": "/files/rule_exception_1761056284186.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "date": "2025-10-23T12:00:00.000Z",
+      "user_kronos": "TSDCCARNEIRO",
+      "consulting_send": true,
+      "created_at": "2025-10-21T14:18:08.514Z",
+      "__v": 0,
+      "updated_at": "2025-10-21T14:18:45.410Z",
+      "auto_send": true
+    },
+    {
+      "period": {
+        "start": "2025-09-29T12:00:00.000Z",
+        "finish": "2025-09-29T12:00:00.000Z"
+      },
+      "_id": "68f7957b9cde2ec0e4f36aa0",
+      "type": "4",
+      "status": 2,
+      "filename": "Relatório de Exceção à Regra_29 09.xlsx",
+      "filepath": "/files/rule_exception_1761056093662.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "date": "2025-10-23T12:00:00.000Z",
+      "user_kronos": "TSDCCARNEIRO",
+      "consulting_send": true,
+      "created_at": "2025-10-21T14:15:23.401Z",
+      "__v": 0,
+      "updated_at": "2025-10-21T14:16:21.113Z",
+      "auto_send": true
+    },
+    {
+      "period": {
+        "start": "2025-09-28T12:00:00.000Z",
+        "finish": "2025-09-28T12:00:00.000Z"
+      },
+      "_id": "68f662439cde2ec0e4f353d2",
+      "type": "4",
+      "status": 2,
+      "filename": "Relatório de Exceção à Regra 28 09.xlsx",
+      "filepath": "/files/rule_exception_1760977472425.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "date": "2025-10-22T12:00:00.000Z",
+      "user_kronos": "TSDCCARNEIRO",
+      "consulting_send": true,
+      "created_at": "2025-10-20T16:24:35.975Z",
+      "__v": 0,
+      "updated_at": "2025-10-20T16:25:21.425Z",
+      "auto_send": true
+    },
+    {
+      "period": {
+        "start": "2025-09-27T12:00:00.000Z",
+        "finish": "2025-09-27T12:00:00.000Z"
+      },
+      "_id": "68f661199cde2ec0e4f34ae9",
+      "type": "4",
+      "status": 2,
+      "filename": "Relatório de Exceção à Regra 27 09.xlsx",
+      "filepath": "/files/rule_exception_1760977148699.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "date": "2025-10-22T12:00:00.000Z",
+      "user_kronos": "TSDCCARNEIRO",
+      "consulting_send": true,
+      "created_at": "2025-10-20T16:19:37.657Z",
+      "__v": 0,
+      "updated_at": "2025-10-20T16:20:29.905Z",
+      "auto_send": true
+    },
+    {
+      "period": {
+        "start": "2025-09-26T12:00:00.000Z",
+        "finish": "2025-09-26T12:00:00.000Z"
+      },
+      "_id": "68f6609145ba905fe9e8cda6",
+      "type": "4",
+      "status": 2,
+      "filename": "Relatório de Exceção à Regra 26 09.xlsx",
+      "filepath": "/files/rule_exception_1760977032800.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "date": "2025-10-22T12:00:00.000Z",
+      "user_kronos": "TSDCCARNEIRO",
+      "consulting_send": true,
+      "created_at": "2025-10-20T16:17:21.614Z",
+      "__v": 0,
+      "updated_at": "2025-10-20T16:18:13.489Z",
+      "auto_send": true
+    },
+    {
+      "period": {
+        "start": "2025-10-01T12:00:00.000Z",
+        "finish": "2025-10-19T12:00:00.000Z"
+      },
+      "_id": "68f65ba945ba905fe9e8ccdc",
+      "type": "5",
+      "status": 2,
+      "filename": "Relatório Menor Após 22 hs 20 10.xlsx",
+      "filepath": "/files/rule_exception_apprentice_1760975784271.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "date": "2025-10-21T12:00:00.000Z",
+      "consulting_send": true,
+      "created_at": "2025-10-20T15:56:25.604Z",
+      "__v": 0,
+      "updated_at": "2025-10-20T15:56:26.368Z"
+    },
+    {
+      "period": {
+        "start": "2025-08-20T12:00:00.000Z",
+        "finish": "2025-09-18T12:00:00.000Z"
+      },
+      "_id": "68f634099cde2ec0e4f2a7dc",
+      "type": "18",
+      "status": 2,
+      "filename": "disregarded_markings_1758731180080 (1).xlsx",
+      "filepath": "/files/disregarded_markings_1760965636545.xlsx",
+      "user": "5b0476fac2ce03001a21c105",
+      "user_name": "Camila Figueiredo Porificacao",
+      "date": "2025-10-22T12:00:00.000Z",
+      "consulting_send": true,
+      "created_at": "2025-10-20T13:07:21.786Z",
+      "__v": 0,
+      "updated_at": "2025-10-20T13:10:00.229Z"
+    },
+    {
+      "period": {
+        "start": "2025-10-17T12:00:00.000Z",
+        "finish": "2025-10-17T12:00:00.000Z"
+      },
+      "_id": "68f2654f45ba905fe9dde07f",
+      "type": "1",
+      "status": 2,
+      "filename": "Ativos_17 10.xlsx",
+      "filepath": "/files/employees_1760716107658.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "consulting_send": true,
+      "created_at": "2025-10-17T15:48:31.084Z",
+      "__v": 0,
+      "updated_at": "2025-10-17T15:50:41.469Z"
+    },
+    {
+      "period": {
+        "start": "2025-10-16T12:00:00.000Z",
+        "finish": "2025-10-16T12:00:00.000Z"
+      },
+      "_id": "68f260839cde2ec0e4ecb604",
+      "type": "21",
+      "status": 2,
+      "filename": "Demitidos_17 10.xlsx",
+      "filepath": "/files/fired_employees_1760714871787.xlsx",
+      "user": "6509e3d1f6fd42781c08d17d",
+      "user_name": "Sheyla Barbosa Nunes",
+      "consulting_send": true,
+      "created_at": "2025-10-17T15:28:03.776Z",
+      "__v": 0,
+      "updated_at": "2025-10-17T15:30:03.359Z"
+    }
+  ]
+}

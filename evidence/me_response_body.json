@@ -1,0 +1,16 @@
+{
+  "permission": {
+    "code": [],
+    "sector": [],
+    "market": [],
+    "pages": []
+  },
+  "profile": "padrão",
+  "view_list": false,
+  "_id": "5acd2e3904d6c06d2cdc0c64",
+  "name": "Marcelo",
+  "email": "marcelo.oliveira@superaremedia.com.br",
+  "password": "$2a$10$94UFzi2Y5E84kR2qBl1/WehktLkTvrNR2/QogmgMKXjOfknO02etO",
+  "admin": true,
+  "badge": "12345"
+}
